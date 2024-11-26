@@ -1,0 +1,1 @@
+Error: Updated footprint U2 (footprints:STS3x-DIS_SEN): *** library footprint not found ***
